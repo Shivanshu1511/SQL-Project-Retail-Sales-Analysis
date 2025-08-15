@@ -294,8 +294,3 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 **Author - Zero Analyst**
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles.
 
----
-
-
-
-Do you want me to also **format it with SQL syntax highlighting** for GitHub Markdown? That’ll make the queries look even cleaner when viewed on GitHub.
